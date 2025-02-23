@@ -16,7 +16,7 @@ Langchain Projects
 	- **Langsmith & Langserve:** Tools to monitor, serve, and scale applications using FastAPI.*
 
 ### RAG Pipeline Overview
-![RAG Pipeline](image/RAG-Pipelines.webp)  
+![RAG Pipeline](image/rag-pipeline.webp)  
 *This image illustrates the Retrieval-Augmented Generation (RAG) pipeline. It outlines how external data is retrieved and combined with language model outputs to improve response quality. The pipeline typically involves:  
 	- **Data Retrieval:** Searching external databases for relevant context.  
 	- **Integration:** Merging retrieved data with generated content.  
