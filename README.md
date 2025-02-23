@@ -22,6 +22,10 @@ Langchain Projects
 	- **Integration:** Merging retrieved data with generated content.  
 	- **Generation:** Producing enriched outputs that leverage both internal and external information.*
 
+### Hybrid Search Overview
+![Hybrid Search](image/hybridsearch.png)  
+*This image demonstrates the hybrid search mechanism, which combines dense (vector-based) and sparse (keyword-based) retrieval techniques. It employs Reciprocal Rank Fusion (RRF) to integrate results from multiple search methods, assigning higher scores to consistently high-ranking items for improved overall search accuracy.*
+
 ## About This Repository
 
 This repository holds a variety of projects related to Langchain, including:
