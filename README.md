@@ -32,7 +32,7 @@ This repository holds a variety of projects related to Langchain, including:
 
 - **Chains, Retrievers, Tools & Agents:** Build and integrate dynamic components.
 - **Retrieval-Augmented Generation (RAG):** Enhance outputs using external data sources.
-- **Vector Databases:** Utilize FAISS, Chroma, and similar tools for efficient storage and retrieval.
+- **Vector Databases:** Utilize FAISS, Pinecone, Chroma, and similar tools for efficient storage and retrieval.
 - **Langsmith & Langserve:** Develop and serve applications with integrated monitoring and FastAPI support.
 - **Large Language Models:** Experiment with OpenAI, Ollama models, and more.
 - **Word Embeddings:** Implement diverse embedding techniques from Hugging Face, OpenAI, Ollama, etc.
